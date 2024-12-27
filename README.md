@@ -18,7 +18,7 @@ Empowering students and businesses by delivering cutting-edge technology solutio
 ### Contact Us  
 - 📍 **Location**: Bengaluru, Karnataka  
 - 📧 **Email**: [team@quinquebit.com](mailto:team@quinquebit.com)  
-- 📞 **Phone**: +91 74064 25631  
+- 📞 **Phone**: +91 98459 31977  
 
 ### Connect with Us  
 - 📸 **Instagram**: [Quinquebit](https://www.instagram.com/quinquebit/profilecard/?igsh=MXBuNXFzazY0MWg3YQ==)  
