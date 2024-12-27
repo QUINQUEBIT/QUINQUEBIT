@@ -1,7 +1,7 @@
 # QUINQUEBIT  
 **Where Imagination Meets Innovation**  
 
-![Quinquebit Logo](https://via.placeholder.com/600x200.png?text=Quinquebit+Logo) <!-- Replace with your logo URL -->
+![Quinquebit Logo](https://via.placeholder.com/600x200.png?text=Quinquebit+Logo)
 
 ### About Us  
 Welcome to **Quinquebit Solutions**, a Bengaluru-based company dedicated to turning imagination into innovation.  
