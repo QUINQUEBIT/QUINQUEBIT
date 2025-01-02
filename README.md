@@ -48,4 +48,3 @@ Check out our repositories for examples of our work and innovative solutions.
 
 ---
 
-Would you like me to format this further or assist with uploading to your GitHub profile?
