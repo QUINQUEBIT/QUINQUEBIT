@@ -1,7 +1,3 @@
-Here's how your GitHub profile content could look, incorporating the provided logo:
-
----
-
 # **QUINQUEBIT**  
 **Where Imagination Meets Innovation**  
 
