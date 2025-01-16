@@ -1,10 +1,6 @@
 # **QUINQUEBIT**  
 **Where Imagination Meets Innovation**  
 
-![Quinquebit Logo](attachment:QB1.png)
-
----
-
 ### **About Us**  
 Welcome to **Quinquebit Solutions**, a Bengaluru-based company dedicated to turning imagination into innovation.  
 We specialize in:  
@@ -30,7 +26,7 @@ Empowering students and businesses by delivering cutting-edge technology solutio
 
 ### **Connect with Us**  
 - 📸 **Instagram**: [Quinquebit](https://www.instagram.com/quinquebit/profilecard/?igsh=MXBuNXFzazY0MWg3YQ==)  
-- 💼 **LinkedIn**: [Quinquebit Team](https://www.linkedin.com/in/quinquebit-team-098947343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 **LinkedIn**: [Quinquebit Team](https://www.linkedin.com/company/quinquebits/?lipi=urn%3Ali%3Apage%3Acompanies_company_index%3B720fbad0-230f-4a8b-ba5b-18a0c80ca536)  
 
 ---
 
